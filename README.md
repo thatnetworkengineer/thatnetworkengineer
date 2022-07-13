@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatnetworkengineer
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning to be a full stack developer
 - 💞️ I’m looking to collaborate on I'm not sure yet
 - 📫 How to reach me email me or something idk lol
 
